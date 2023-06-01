@@ -1,4 +1,4 @@
-# ITI-Graduation-Project
+# ITI-DevOps-Project
 
 # Project Description :
 
